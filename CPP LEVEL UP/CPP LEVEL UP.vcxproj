@@ -124,7 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="archer.cpp" />
-    <ClCompile Include="CPP LEVEL UP.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="magician.cpp" />
     <ClCompile Include="player.cpp" />
     <ClCompile Include="thief.cpp" />
